@@ -1,8 +1,8 @@
 # Evento Evaluativo - Estructura de datos
 
-![Ausencia](Ausencia.png)
+![Ausencia](Ausencia.PNG)
 
-![AusenciaITM](AusenciaITM.png)
+![AusenciaITM](AusenciaITM.PNG)
 
 El ITM, requiere de un software que le permita gestionar las ausencias del sitio de trabajo de sus empleados. Para registrar una ausencia del sitio de trabajo se requiere los siguientes datos: identificación del empleado, el motivo de la ausencia (personal, académico, calamidad o compensatorio), fecha de la ausencia (compuesta por el día, mes y año) y el tiempo de duración (mínimo un día y máximo 3).
 
